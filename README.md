@@ -3,7 +3,7 @@ Betticlimategame
 
 Analisi dei tipi di tempo o meglio dei pattern di circolazione europei. Maggiori informazioni. 
 
-* [Tipi di Tempo LaMMMA ](http://www.lamma.rete.toscana.it/clima-e-energia/climatologia/tipi-di-tempo) 
+* [Tipi di Tempo LaMMA ](http://www.lamma.rete.toscana.it/clima-e-energia/climatologia/tipi-di-tempo) 
 
 * 1  Promontorio anticiclonico Atlantico (A)  --> marcata espansione in senso meridiano dell'Anticiclone delle Azzorre con richiamo sull'Italia e sull’Europa centro orientale di correnti artiche (circolazione zonale bloccata o fortemente deviata).
 
